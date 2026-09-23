@@ -50,7 +50,7 @@ When the correct password is entered, the door-lock mechanism is activated and a
 
 **RESULT**
 
-**!(IMG-20260923-WA0002.jpg)**
+**![](IMG-20260923-WA0002.jpg)**
 
 ### **Applications**
 
